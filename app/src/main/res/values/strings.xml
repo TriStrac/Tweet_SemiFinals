@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tweet</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="new_tweet">New Tweet</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_tweet">Enter Tweet</string>
+    <string name="save_tweet">Save Tweet</string>
+    <string name="refresh">Refresh</string>
+</resources>
